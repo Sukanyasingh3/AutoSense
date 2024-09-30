@@ -60,7 +60,7 @@ Explore the difference between original images and their segmented versions proc
 
 ## Contributing
 
-We welcome contributions from the community to enhance the features, improve accuracy, and expand the applications of AutoSense. Feel free to fork the repositoryand submit pull requests with your changes.
+We welcome contributions from the community to enhance the features, improve accuracy, and expand the applications of AutoSense. Feel free to fork the repository and submit pull requests with your changes.
 
 For major changes, please open an issue first to discuss the proposed changes and ensure they align with the project's goals.
 
